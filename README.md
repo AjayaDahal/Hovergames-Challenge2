@@ -24,7 +24,8 @@ GPS: GPS NEO-M8N module (Hover Games Drone Development Kit) GOOGLE MAP API Ultra
 This project can be modified as per the crisis type. For example, if there is a fire, we can make a drone to drop a payload to a firefighter in the desired location. 
 
 # Android app
-Android app is located [here](https://github.com/AjayaDahal/Hovergames-Challenge2/blob/main/Doctor%20Drone.apk).
+Android app is located [here](https://github.com/AjayaDahal/Hovergames-Challenge2/blob/main/Doctor%20Drone.apk).  
+
 ![Android app welcome  page](App_greeting.jpg)
 
 # Project Video

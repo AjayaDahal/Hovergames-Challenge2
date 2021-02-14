@@ -1,5 +1,8 @@
 # Hovergames-Challenge2
-Repo for documentation purpose
+Repo for documentation purpose  
+
+[HoverGames Competition Submission](https://www.hackster.io/ajayadahal1000/covid-19-testing-service-via-drone-65c52a).  
+
 # Abstracts:
 During this unprecedented time of global crisis, the graph of the total number of cases and the total number of deaths is continuously climbing up and there is no sign of slowing down the spread of this epidemic anytime soon. The main cause of having so many fatalities and infections is due to lack of social distancing which is one of the main methods to slow down the spread of this infection. Unfortunately, if anyone is not feeling well and wants to get tested for the possible infection, he/she has to physically present themselves to submit the sample. Since the number of cases are increasing day by day testing facilities are also crowded. During their presence in any location there is a high chance of spreading their infection to numbers of other individuals. So, it is never a good idea to go to the testing site. Under such conditions if we can take an optimum benefit of technology then it can possibly help to bring the curve down. On this project, we tried to create a drone which they can order from their smartphone and help to collect the sample from possible COVID-19 patients. 
 # Introduction: 

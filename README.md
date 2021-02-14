@@ -24,7 +24,7 @@ This project can be modified as per the crisis type. For example, if there is a 
 Android app is located [here](https://github.com/AjayaDahal/Hovergames-Challenge2/blob/main/Doctor%20Drone.apk).
 
 # Project Video
-You can watch the project video here: # [Youtube Link](https://youtu.be/BQaj7IWFBJE).  
+You can watch the project video here: # [Youtube Link](https://youtu.be/gxKfjFzo7fg).  
 
 # Project Highlights  
 ![Ajaya, and HoverGames in the sky](pic1.jpg)

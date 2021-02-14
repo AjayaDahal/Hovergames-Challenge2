@@ -22,9 +22,10 @@ During arrival landing and when it’s time for the drone to leave the user’s 
 # Hardware and Software Used.
 GPS: GPS NEO-M8N module (Hover Games Drone Development Kit) GOOGLE MAP API Ultrasonic sensor ANDROID/ IOS Platform for user end app Google Firebase for backend database A good resolution camera NavQ (all image processing will be done using NavQ)  
 This project can be modified as per the crisis type. For example, if there is a fire, we can make a drone to drop a payload to a firefighter in the desired location. 
-# Android app
 
+# Android app
 Android app is located [here](https://github.com/AjayaDahal/Hovergames-Challenge2/blob/main/Doctor%20Drone.apk).
+![Android app welcome  page](App_greeting.jpg)
 
 # Project Video
 You can watch the project video here: # [Youtube Link](https://youtu.be/gxKfjFzo7fg).  

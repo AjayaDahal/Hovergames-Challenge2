@@ -34,3 +34,6 @@ You can watch the project video here: # [Youtube Link](https://youtu.be/gxKfjFzo
 # Project Highlights  
 ![Ajaya, and HoverGames in the sky](pic1.jpg)
 ![Ajaya, and HoverGames in the sky 2](pic2.jpg)
+
+# Simulation in Gazebo
+![Simulation in gazebo](hovergames_simulation.PNG)

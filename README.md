@@ -37,3 +37,8 @@ You can watch the project video here: # [Youtube Link](https://youtu.be/gxKfjFzo
 
 # Simulation in Gazebo
 ![Simulation in gazebo](hovergames_simulation.PNG)
+
+#Additional Work in progress
+Working on to implement autonomous flight to a provided GPS coordinates (that is obtained from the android app). Something like this: (https://dronekit-python.readthedocs.io/en/latest/examples/drone_delivery.html)  
+
+
